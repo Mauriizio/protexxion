@@ -84,4 +84,10 @@ Para comprobar una instalación desplegada, configurar `TEST_BASE_URL` con su UR
 
 ## Vercel
 
-Deployment mediante `vercel --prod --yes`. La URL de producción verificada se registra al finalizar el despliegue.
+Producción: https://protexxion-academy-demo.vercel.app
+
+Proyecto: `protexxion-academy-demo`. Deployment mediante `vercel --prod --yes`, con la configuración existente en `.vercel/project.json` (archivo local excluido de Git).
+
+Validación del 21 de septiembre de 2026: lint sin errores, build de producción correcto y las 3 pruebas integrales de Playwright aprobadas. Se verificó también la identidad SHA-256 de los 12 PDF originales y sus copias públicas. Las pruebas incluyen 85 páginas renderizadas, desbloqueo secuencial, persistencia, finalización y reinicio.
+
+Commit de implementación: `b413dfe` — `feat: build premium Protexxion Academy demo and LMS`. El repositorio fue inicializado localmente porque no existía Git previo; no hay remoto configurado.
