@@ -1,0 +1,150 @@
+{
+  "id": "os10",
+  "title": "Curso OS10 Guardia de Seguridad",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Marco legal OS10",
+      "content": [
+        {
+          "id": "pdf-1",
+          "type": "pdf",
+          "src": "/pdfs/01_Modulo_Marco_legal_OS10.pdf",
+          "pages": 8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Funciones y responsabilidades",
+      "content": [
+        {
+          "id": "pdf-2",
+          "type": "pdf",
+          "src": "/pdfs/02_Modulo_Funciones_y_responsabilidades.pdf",
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Derechos humanos y ética",
+      "content": [
+        {
+          "id": "pdf-3",
+          "type": "pdf",
+          "src": "/pdfs/03_Modulo_Derechos_humanos_y_tica.pdf",
+          "pages": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Procedimientos de seguridad",
+      "content": [
+        {
+          "id": "pdf-4",
+          "type": "pdf",
+          "src": "/pdfs/04_Modulo_Procedimientos_de_seguridad.pdf",
+          "pages": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Comunicación y atención al público",
+      "content": [
+        {
+          "id": "pdf-5",
+          "type": "pdf",
+          "src": "/pdfs/05_Modulo_Comunicaci_n_y_atenci_n_al_p_blico.pdf",
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Control de accesos",
+      "content": [
+        {
+          "id": "pdf-6",
+          "type": "pdf",
+          "src": "/pdfs/06_Modulo_Control_de_accesos.pdf",
+          "pages": 7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sistemas de vigilancia y monitoreo",
+      "content": [
+        {
+          "id": "pdf-7",
+          "type": "pdf",
+          "src": "/pdfs/07_Modulo_Sistemas_de_vigilancia_y_monitoreo.pdf",
+          "pages": 6
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Prevención de riesgos",
+      "content": [
+        {
+          "id": "pdf-8",
+          "type": "pdf",
+          "src": "/pdfs/08_Modulo_Prevenci_n_de_riesgos.pdf",
+          "pages": 7
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Uso proporcional de la fuerza",
+      "content": [
+        {
+          "id": "pdf-9",
+          "type": "pdf",
+          "src": "/pdfs/09_Modulo_Uso_proporcional_de_la_fuerza.pdf",
+          "pages": 7
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Primeros auxilios",
+      "content": [
+        {
+          "id": "pdf-10",
+          "type": "pdf",
+          "src": "/pdfs/10_Modulo_Primeros_auxilios.pdf",
+          "pages": 7
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Manejo de emergencias",
+      "content": [
+        {
+          "id": "pdf-11",
+          "type": "pdf",
+          "src": "/pdfs/11_Modulo_Manejo_de_emergencias.pdf",
+          "pages": 7
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Evaluación final y repaso",
+      "content": [
+        {
+          "id": "pdf-12",
+          "type": "pdf",
+          "src": "/pdfs/12_Modulo_Evaluaci_n_final_y_repaso.pdf",
+          "pages": 10
+        }
+      ]
+    }
+  ]
+}
